@@ -6,9 +6,9 @@ Tipe Data Array
 
 Index di Array
 Index		Data
-0			Muhammad
-1			Himbar
-2			Buana
+0		Muhammad
+1		Himbar
+2		Buana
 
 Notes: Index dalam array dimulai dari 0.
 
@@ -16,9 +16,9 @@ Membuat Array Langsung
 - Di Golang kita juga bisa membuat array secara langsung saat deklarasi variable.
 
 Function Array
-Operasi						Keterangan
-len(array)					Untuk mendapatkan panjang array
-array[index]				Mendapat data di posisi index
+Operasi				Keterangan
+len(array)			Untuk mendapatkan panjang array
+array[index]			Mendapat data di posisi index
 array[index] = value		Mengubah data di posisi index
 */
 
