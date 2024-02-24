@@ -6,9 +6,9 @@ Tipe Data String
 - Nilai data String di Golang selalu diawali dengan karakter " (petik dua) dan diakhiri dengan karakter " (petik dua).
 
 Function untuk String
-Function				Keterangan
-len("string")			Menghitung jumlah karakter di String
-"string"[number]		Mengambil karakter pada posisi yang ditentukan
+Function		Keterangan
+len("string")		Menghitung jumlah karakter di String
+"string"[number]	Mengambil karakter pada posisi yang ditentukan
 */
 
 package main

@@ -5,8 +5,8 @@ Tipe Data Boolean
 
 Boolean
 Nilai Boolean 		Keterangan
-true				Benar
-false				Salah
+true			Benar
+false			Salah
 */
 
 package main

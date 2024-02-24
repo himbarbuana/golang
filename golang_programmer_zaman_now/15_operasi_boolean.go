@@ -1,32 +1,32 @@
 /*
 Operasi Boolean
-Operator 		Keterangan
-&&				Dan
-||				Atau
-!				Kebalikan
+Operator 	Keterangan
+&&		Dan
+||		Atau
+!		Kebalikan
 
 Operasi &&
-Nilai 1		Operator		Nilai 2 		Hasil
-true		&&				true			true
-true		&&				false			false
-false		&&				true			false
-false		&&				false			false
+Nilai 1		Operator	Nilai 2 	Hasil
+true		&&		true		true
+true		&&		false		false
+false		&&		true		false
+false		&&		false		false
 
 Notes: dalam operasi && jika nilai dua-duanya true, hasilnya true. Jika salah satunya bernilai false, maka hasilnya false.
 
 Operasi ||
-Nilai 1		Operator		Nilai 2 		Hasil
-true		||				true			true
-true		||				false			true
-false		||				true			true
-false		||				false			false
+Nilai 1		Operator	Nilai 2 	Hasil
+true		||		true		true
+true		||		false		true
+false		||		true		true
+false		||		false		false
 
 Notes: jika salah satu nilainya true, hasilnya akan true.
 
 Operasi !
 Operator 	Nilai 		Hasil
-!			true		false
-!			false		true
+!		true		false
+!		false		true
 */
 
 package main
