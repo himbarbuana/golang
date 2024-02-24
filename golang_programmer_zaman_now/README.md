@@ -1,4 +1,4 @@
-## Belajar Dasar-Dasar Pemrograman Golang
+## Belajar Dasar-dasar Pemrograman Golang
 
 ### Channel
 [ProgrammerZamanNow](https://www.youtube.com/@ProgrammerZamanNow)
