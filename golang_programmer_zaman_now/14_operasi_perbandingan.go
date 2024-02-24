@@ -6,13 +6,13 @@ Operasi Perbandingan
 - Jika hasil operasinya salah, maka nilainya false.
 
 Operator Perbandingan
-Operator 		Keterangan
->				Lebih dari
-<				Kurang dari
->=				Lebih dari sama dengan
-<=				Kurang dari sama dengan
-==				Sama dengan
-!=				Tidak sama dengan
+Operator 	Keterangan
+>		Lebih dari
+<		Kurang dari
+>=		Lebih dari sama dengan
+<=		Kurang dari sama dengan
+==		Sama dengan
+!=		Tidak sama dengan
 */
 
 package main
