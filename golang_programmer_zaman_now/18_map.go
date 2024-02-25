@@ -6,12 +6,12 @@ Tipe Data Map
 - Berbeda dengan array dan slice, jumlah data yang kita masukkan ke dalam map boleh sebanyak-banyaknya, asalkan kata kuncinya berbeda, jika kita gunakan kata kunci yang sama, maka secara otomatis data sebelumnya akan diganti dengan data baru.
 
 Function Map
-Operasi 						Keterangan
-len(map)						Untuk mendapatkan jumlah data di map
-map[key]						Mengambil data di map dengan key
-map[key] = value				Mengubah data di map dengan key
+Operasi 				Keterangan
+len(map)				Untuk mendapatkan jumlah data di map
+map[key]				Mengambil data di map dengan key
+map[key] = value			Mengubah data di map dengan key
 make(map[TypeKey]TypeValue)		Membuat map baru
-delete(map, key)				Menghapus data di map dengan key
+delete(map, key)			Menghapus data di map dengan key
 */
 
 package main
